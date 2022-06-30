@@ -2,9 +2,6 @@
 
 This is the first file in this demo.
 
-## Ipsum below
-odejded
-dede
-dedwwsws
+## Website contents
 
-ANOTHER TEXT
+1. index.html
